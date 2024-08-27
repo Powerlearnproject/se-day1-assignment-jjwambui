@@ -36,23 +36,30 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+-Waterfall is a linear, sequential approach where each phase (planning, design, development, testing, deployment) must be completed before the next begins. It's rigid, with little room for changes once a phase is completed. Agile is iterative and flexible, with development divided into small, manageable sprints. It allows for continuous feedback and adaptation. Waterfall is best for projects with well-defined requirements e.g., construction software. Agile suits dynamic projects where requirements may evolve e.g., mobile app development.
+
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+-A Software Developer writes and maintains code, turning requirements into functional software. A Quality Assurance (QA) Engineer tests the software to identify bugs and ensure it meets quality standards. A Project Manager oversees the project, coordinating tasks, timelines, and communication to ensure the team delivers the software on time and within scope.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+-IDEs streamline coding with tools like syntax highlighting, debugging, and code completion, enhancing productivity and reducing errors e.g, Visual Studio, IntelliJ IDEA. Version Control Systems like manage code changes, enabling collaboration, version tracking, and rollback capabilities, essential for team-based development and maintaining code integrity e.g, Git, Subversion.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+Common challenges include managing tight deadlines, dealing with complex codebases, and staying updated with evolving technologies. Strategies include effective time management, breaking tasks into smaller parts, continuous learning, and leveraging collaboration tools. Regular code reviews and adhering to best practices also help maintain code quality and team efficiency.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+-Unit testing checks individual components for correctness. Integration testing ensures combined modules work together. System testing validates the entire software against requirements. Acceptance testing confirms the software meets user needs and is ready for deployment. Each type is crucial for identifying issues early, ensuring components work harmoniously, and verifying that the final product meets both technical and user expectations, ensuring high-quality software.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+-Prompt engineering involves crafting precise inputs  to guide AI models in generating accurate and relevant outputs. It's crucial for optimizing AI interactions, ensuring responses align with user intent, and enhancing the overall effectiveness and efficiency of AI applications.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+-Vague Prompt: "Tell me about technology."
+
+-Improved Prompt: "Explain the impact of artificial intelligence on the education industry."
+
+The improved prompt is more effective because it clearly defines the subject and the context of the impact of AI on the education industry, allowing the AI to generate a focused, relevant response. This specificity reduces ambiguity and enhances the quality and usefulness of the output.
